@@ -1,0 +1,4 @@
+sceneSetups:
+- path: framework_example_games/Assets/Scenes/Metal Vehicle Doom/menu_MVD.unity
+  isLoaded: 1
+  isActive: 1

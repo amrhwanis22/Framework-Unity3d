@@ -1,0 +1,28 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Base/Base Player Controllers/BaseTopDown.cs">
+    <Files>
+      <File FileName="Assets/Scripts/COMMAN/GAME CONTROL/SceneManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Base/BaseGameContoller.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Base/ExtendedCustomMonoBehavior.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Base/BaseUserManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Base/BasePlayerManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/COMMAN/INPUT/Keyboard_Input.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Base/BaseInputController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/COMMAN/UTILITY/TimerClass.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/COMMAN/SPAWNING/SpwanController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/COMMAN/SPAWNING/TriggerSpawner.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/COMMAN/SPAWNING/Path_Spawner.cs" Line="8" Column="1" />
+      <File FileName="Assets/Scripts/COMMAN/UTILITY/PretendFriction.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Base/BaseCameraController.cs" Line="8" Column="41" />
+      <File FileName="Assets/Scripts/COMMAN/CAMERA/Camera_Third_Person.cs" Line="31" Column="43" />
+      <File FileName="Assets/Scripts/Base/Base Player Controllers/BaseTopDownSpaceShip.cs" Line="57" Column="35" />
+      <File FileName="Assets/Scripts/Base/Base Player Controllers/SimplePlayerController.cs" Line="52" Column="33" />
+      <File FileName="Assets/Scripts/Base/Base Player Controllers/BaseTopDown.cs" Line="94" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
